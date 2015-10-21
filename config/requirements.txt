@@ -1,0 +1,7 @@
+requests
+django
+python-dateutil
+django-session-security
+Pillow
+django-flat-theme
+django-location-field
